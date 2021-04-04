@@ -1,0 +1,8 @@
+Resolusi:
+- Remaster HTML, CSS, Javascript
+- Remaster ES6, Axios dan Library lainnya
+- Remaster React
+- Membuat Website atau Web App Menarik dan Interaktif sebagai portofolio
+- Bekerja di Perusahaan Web Developer atau Membangun Perusahaan atau Start-up sendiri
+- Belajar Mobile Development
+- Belajar DevOps
